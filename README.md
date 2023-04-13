@@ -1,6 +1,6 @@
 # Asteroids
 
-In this practice, you will implement the classic game Asteroids.
+In this practice, you will implement the classic game Asteroids!
 
 ## Learning Goals
 
